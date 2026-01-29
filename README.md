@@ -26,7 +26,7 @@ html-resume/
 │
 ├── index.html          # Main HTML resume page
 ├── README.md           # Project documentation
-└── screenshots/        # Screenshots for demonstration
+└── Screenshots/        # Screenshots for demonstration
 ```
 
 ## 🚀 Setup Instructions
@@ -95,21 +95,20 @@ Simply open the `index.html` file in any web browser to view the resume. The pag
 ## 📸 Screenshots
 
 ### Full Page View
-![Full Resume Page](screenshots/full-page.png)
+![Full Resume Page](Screenshots/full-page.png)
 
 ### Header Section
-![Header](screenshots/header-section.png)
+![Header](Screenshots/header-section.png)
 
 ### Skills Section
-![Header](screenshots/skills-section.png)
+![Header](Screenshots/skills-section.png)
 
 ### Experience Table
-![Experience](screenshots/experience-section.png)
+![Experience](Screenshots/experience-table.png)
 
 ### Projects Section
-![Projects](screenshots/projects-section.png)
+![Projects](Screenshots/projects-section.png)
 
-*(Add actual screenshots after creating them)*
 
 ## 👤 Author
 
@@ -120,13 +119,6 @@ Full Stack Developer | Web Developer | Tech Enthusiast
 - **Phone**: 97231315
 - **Location**: Delhi, India
 
-## 📝 Notes
-
-- This is a pure HTML project as per assignment requirements
-- No CSS or JavaScript has been used
-- Focus is on semantic HTML structure and proper element usage
-- All content is sample data for demonstration purposes
-
 ## 📄 License
 
 This project is created for educational purposes as part of Web Dev Cohort 2026.
@@ -134,6 +126,3 @@ This project is created for educational purposes as part of Web Dev Cohort 2026.
 © 2026 Nishant Kaushal. All rights reserved.
 
 ---
-
-**Submission Date**: January 30, 2026  
-**Cohort**: Web Dev Cohort 2026
