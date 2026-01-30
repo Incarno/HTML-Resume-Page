@@ -63,7 +63,7 @@ html-resume/
 ```
 
 ### Alternative: View Online
-visit: [Live Demo Link](#) *(https://697a67594939df7f041cd38f--dashing-raindrop-3e432d.netlify.app/)*
+visit: [Live Demo Link](#) *(https://dashing-raindrop-3e432d.netlify.app/)*
 
 ## 📖 Usage
 
