@@ -116,7 +116,7 @@ Simply open the `index.html` file in any web browser to view the resume. The pag
 Full Stack Developer | Web Developer | Tech Enthusiast
 
 - **Email**: nishant@gmail.com
-- **Phone**: 97231315
+- **Phone**: 9723131522
 - **Location**: Delhi, India
 
 ## 📄 License
